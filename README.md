@@ -1,6 +1,5 @@
 # 💫 Hakkımda  
-Benim adım **Nihat Bayram** ve **Iğdır Üniversitesi** Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. **Siber güvenlik**, **web programlama**, **veri bilimi** ve **makine öğrenimi** gibi alanlarda kendimi geliştirmeye büyük bir tutkum var. Özellikle **web güvenliği** ve **siber risk yönetimi** konularında projeler geliştirmekteyim. Ayrıca, **Python**, **JavaScript**, **C**, **Java**, **CSS** gibi programlama dillerinde aktif olarak çalışıyorum. Uzun vadeli hedefim, **derin öğrenme** konusunda uzmanlaşarak **kıdemli geliştirici** olmak ve sektörümüze yenilikçi çözümler sunmak.
-
+Benim adım **Nihat Bayram** ve **Iğdır Üniversitesi** Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. **Siber güvenlik**, **web programlama**, **veri bilimi** ve **makine öğrenimi** gibi alanlarda kendimi geliştirmeye büyük bir tutkum var. Özellikle **web güvenliği** ve **siber risk yönetimi** konularında projeler geliştirmekteyim. Ayrıca, **Python**, **JavaScript**, **C**, **Java**, **CSS** gibi programlama dillerinde aktif olarak çalışıyorum.
 ---
 
 ## 🌐 **Sosyal Medya:**  
