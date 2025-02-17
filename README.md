@@ -66,7 +66,6 @@ Merhaba! Ben Nihat, Iğdır Üniversitesi Bilgisayar Mühendisliği 3. sınıf �
   Makine öğrenimi kullanarak veri analizi ve tahmin.  
 
 ---
-
 ## 🏆 **GitHub İstatistiklerim**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nihatbayram&show_icons=true&theme=radical)  
 
