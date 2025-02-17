@@ -1,7 +1,36 @@
 # Nihat Bayram  
-💻 **Bilgisayar Mühendisliği Öğrencisi | Siber Güvenlik, Web Programlama ve Veri Bilimi Alanlarında Gelişen**  
+💻 **Bilgisayar Mühendisliği Öğrencisi | Siber Güvenlik, Web Programlama, Veri Bilimi ve Makine Öğrenimi Alanlarında Gelişen**  
 
-Merhaba! Ben Nihat, Iğdır Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Siber güvenlik, web programlama ve yapay zeka alanlarına meraklıyım. Web güvenliği, makine öğrenimi ve veri bilimi üzerine çalışmalar yaparak kendimi sürekli geliştirmekteyim. Yenilikçi teknolojilerle güvenli ve akıllı çözümler üretmeyi hedefliyorum.
+Merhaba! Ben Nihat, Iğdır Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Siber güvenlik, web programlama, veri bilimi ve makine öğrenimi alanlarına meraklıyım. Web güvenliği, makine öğrenimi ve veri bilimi üzerine çalışmalar yaparak kendimi sürekli geliştirmekteyim. Yenilikçi teknolojilerle güvenli ve akıllı çözümler üretmeyi hedefliyorum.
+
+---
+
+## 📍 **İletişim Bilgileri**  
+**Telefon:** 05415366620  
+**E-posta:** [nihatbayram585@gmail.com](mailto:nihatbayram585@gmail.com)  
+**Adres:** Şırnak/Merkez Balveren Beldesi, Şafak Mahallesi, Mele Derveş Sokak No:23  
+**LinkedIn:** [LinkedIn Profilim](https://www.linkedin.com/in/nihat-bayram-b3a1b4277/)  
+**Instagram:** [Instagram Profilim](https://www.instagram.com/nihatbayramm/)
+
+---
+
+## 🎓 **Eğitim Bilgileri**  
+- **2026**: Iğdır Üniversitesi, Bilgisayar Mühendisliği (3. Sınıf)  
+- **Şırnak Mustafa Bayram ÇPAL Lisesi**, Bilişim Teknolojileri Alanı, Web Tasarımı Dalı
+
+---
+
+## 🎓 **Kurslar ve Sertifikalar**  
+- Siber Güvenlik Analistliği (Akbank Gençlik Akademisi)  
+- Introduction to Cybersecurity (Cisco)  
+- NDG Linux Unhatched  
+- Ethical Hacker (Udemy)  
+- Siber Güvenlik Analistliği (Udemy)  
+- Yapay Zeka Bootcamp (Pupilica)  
+- Web Programlama (Frontend/Backend - Udemy)  
+- Temel ve Orta Seviye Java (BTK Akademi)  
+- Python 101/202/303/404 (Turkcell Geleceği Yazanlar)  
+- A1/A2/B1 Seviye İngilizce (BTK Akademi)  
 
 ---
 
@@ -35,14 +64,6 @@ Merhaba! Ben Nihat, Iğdır Üniversitesi Bilgisayar Mühendisliği 3. sınıf �
 
 - [Veri Bilimi Tahmin Projesi](https://github.com/nihatbayram/datascience-tahmin)  
   Makine öğrenimi kullanarak veri analizi ve tahmin.  
-
----
-
-## 📫 **Bana Ulaşın:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nihatbayram)  
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/nihatbayram)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nihatbayram)  
-[![E-posta](https://img.shields.io/badge/E--posta-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nihatbayram@example.com)
 
 ---
 
