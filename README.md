@@ -67,10 +67,10 @@ Merhaba! Ben Nihat, Iğdır Üniversitesi Bilgisayar Mühendisliği 3. sınıf �
 
 ---
 ## 🏆 **GitHub İstatistiklerim**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nihatbayram&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nihatbayramm&show_icons=true&theme=radical)  
 
 ### 📊 **En Çok Kullandığım Diller:**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nihatbayram&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nihatbayramm&layout=compact&theme=radical)
 
 ---
 
