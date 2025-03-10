@@ -6,8 +6,6 @@ My name is **Nihat Bayram** and I am a **3rd-year Computer Engineering** student
 ## 🌐 **Social Media:**  
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/nihatbayramm/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nihat-bayram-b3a1b4277/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nihatbayramm)  
-
 ---
 
 ## 💻 **Tech Stack:**  
