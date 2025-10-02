@@ -1,10 +1,10 @@
 # 💫 About Me  
-My name is **Nihat Bayram** and I am a **3rd-year Computer Engineering** student at **Iğdır University**. I am deeply passionate about improving my skills in **cybersecurity**, **web programming**, **data science**, and **machine learning**. I am currently working on projects in **web security** and **cyber risk management**. Additionally, I actively work with programming languages such as **Python**, **JavaScript**, **C**, **Java**, and **CSS**.
+My name is **Nihat Bayram** and I am a **4rd-year Computer Engineering** student at **Iğdır University**. I am deeply passionate about improving my skills in **cybersecurity**, **web programming**, **data science**, and **machine learning**. I am currently working on projects in **web security** and **cyber risk management**. Additionally, I actively work with programming languages such as **Python**, **JavaScript**, **C**, **Java**, and **CSS**.
 
 ---
 
 ## 🌐 **Social Media:**  
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/nihatbayramm/)  
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/nihattbayrammm/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nihat-bayram-b3a1b4277/)  
 ---
 
