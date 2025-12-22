@@ -14,7 +14,7 @@ My name is **Nihat Bayram** and I am a **4rd-year Computer Engineering** student
 ---
 
 ## 🎓 **Education:**  
-- **2026**: **Iğdır University**, Computer Engineering (3rd Year)  
+- **2026**: **Iğdır University**, Computer Engineering (4rd Year)  
 - **Şırnak Mustafa Bayram ÇPAL High School**, IT Technologies, Web Design
 
 ---
