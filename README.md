@@ -1,46 +1,63 @@
-# 💫 About Me  
-My name is **Nihat Bayram** and I am a **4rd-year Computer Engineering** student at **Iğdır University**. I am deeply passionate about improving my skills in **cybersecurity**, **web programming**, **data science**, and **machine learning**. I am currently working on projects in **web security** and **cyber risk management**. Additionally, I actively work with programming languages such as **Python**, **JavaScript**, **C**, **Java**, and **CSS**.
+# 🕶️ Nihat Bayram | Cybersecurity & Software Engineer
+
+> Hack the system. Secure the future.
 
 ---
 
-## 🌐 **Social Media:**  
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/nihattbayrammm/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nihat-bayram-b3a1b4277/)  
----
+## 🔐 About Me
 
-## 💻 **Tech Stack:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-2E2E2E?style=for-the-badge&logo=powershell&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-00B5B5?style=for-the-badge&logo=nmap&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-212121?style=for-the-badge&logo=metasploit&logoColor=white) ![DotNet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+I am **Nihat Bayram**, a **4th-year Computer Engineering** student at **Iğdır University**, focused on **Cybersecurity**, **Web Security**, and **Secure Software Development**.
 
----
+I actively work on:
+- 🛡️ Web & Application Security  
+- 🔍 Vulnerability Analysis & Penetration Testing  
+- ⚠️ Cyber Risk Management  
+- 💻 Secure Backend & Web Development  
 
-## 🎓 **Education:**  
-- **2026**: **Iğdır University**, Computer Engineering (4rd Year)  
-- **Şırnak Mustafa Bayram ÇPAL High School**, IT Technologies, Web Design
+My goal is to build **secure, scalable, and resilient systems** while continuously improving both **offensive and defensive cybersecurity skills**.
 
 ---
 
-## 🏆 **Courses and Certifications:**  
-- Cybersecurity Analyst (Akbank Gençlik Akademisi)  
-- Introduction to Cybersecurity (Cisco)  
-- NDG Linux Unhatched  
-- Ethical Hacker (Udemy)  
-- Cybersecurity Analyst (Udemy)  
-- Artificial Intelligence Bootcamp (Pupilica)  
-- Web Programming (Frontend/Backend - Udemy)  
-- Basic and Intermediate Java (BTK Akademi)  
-- Python 101/202/303/404 (Turkcell Geleceği Yazanlar)  
-- A1/A2/B1 English Level (BTK Akademi)
+## 🌐 Social Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nihat-bayram-b3a1b4277/)
+[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram)](https://www.instagram.com/nihattbayrammm/)
 
 ---
 
-## 📊 **GitHub Statistics:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nihatbayramm&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nihatbayramm&layout=compact&theme=radical)
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=java)
+![CSS](https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=css3)
+![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql)
+![Angular](https://img.shields.io/badge/Angular-111111?style=for-the-badge&logo=angular)
+![.NET](https://img.shields.io/badge/.NET-111111?style=for-the-badge&logo=.net)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-111111?style=for-the-badge&logo=ubuntu)
+![PowerShell](https://img.shields.io/badge/PowerShell-111111?style=for-the-badge&logo=powershell)
+![Nmap](https://img.shields.io/badge/Nmap-111111?style=for-the-badge&logo=nmap)
+![Metasploit](https://img.shields.io/badge/Metasploit-111111?style=for-the-badge&logo=metasploit)
+
+---
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nihatbayramm&show_icons=true&count_private=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nihatbayramm&layout=compact)
 
 ---
 
-## ✍️ **Random Dev Quote**  
-*"When writing code, you're not just communicating with computers, you're communicating with your dreams."*  
-- **Nihat Bayram**
+## 👀 Profile Overview
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=nihatbayramm&color=0e75b6&style=flat)
+
+- 🔐 Focused on **Cybersecurity & Web Security**
+- 🛡️ Hands-on experience in **secure application development**
+- 🔍 Interested in **penetration testing & risk analysis**
+- 💻 Active with **Python, JavaScript, C, Java, Linux**
+
+
+## 🧠 Philosophy
+
+“Security is not a product, it is a process.”
