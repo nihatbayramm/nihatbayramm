@@ -1,4 +1,4 @@
-# 🕶️ Nihat Bayram | Cybersecurity & Software Engineer
+# 🕶️ Nihat Bayram | Computer Engineer
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF99&center=true&vCenter=true&width=650&lines=Cybersecurity+Enthusiast;Web+Security+%26+Risk+Management;Secure+Software+Development;Always+Learning%2C+Always+Improving" />
