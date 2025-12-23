@@ -1,8 +1,11 @@
 # 🕶️ Nihat Bayram | Computer Engineer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF99&center=true&vCenter=true&width=650&lines=Cybersecurity+Enthusiast;Web+Security+%26+Risk+Management;Secure+Software+Development;Always+Learning%2C+Always+Improving" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&duration=1600&pause=500&color=00FF41&background=000000&center=true&vCenter=true&width=1000&lines=SYSTEM+BOOTING...;LOADING+CYBERSECURITY+MODULES...;AI+ASSISTED+DEFENSE+ACTIVE;NIHAT+BAYRAM+ONLINE" />
 </p>
+
+
+
 
 > Hack the system. Secure the future.
 
@@ -58,8 +61,9 @@ My goal is to design **secure, scalable, and resilient systems** while continuou
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nihatbayramm&show_icons=true&count_private=true)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nihatbayramm&layout=compact)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nihatbayramm&show_icons=true&count_private=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nihatbayramm&layout=compact&theme=tokyonight)
 
 ---
 
