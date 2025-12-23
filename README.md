@@ -82,5 +82,5 @@ My goal is to design **secure, scalable, and resilient systems** while continuou
 
 ## 🐍 Contribution Activity
 
-
-![Snake animation](https://raw.githubusercontent.com/nihatbayramm/nihatbayramm/output/github-contribution-grid-snake-dark.svg)
+> Watch my code evolve through commits
+![Snake animation](https://raw.githubusercontent.com/nihatbayramm/nihatbayramm/output/snake-dark.svg)
