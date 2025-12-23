@@ -16,15 +16,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate snake files
+      - name: Generate advanced snake animations
         uses: Platane/snk@v3
         with:
           github_user_name: nihatbayramm
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+            dist/snake-default.svg
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake-neon.svg?color_snake=#00ff99&color_dots=#003333,#005555,#008888,#00ffaa,#00ff99
+            dist/snake-purple.svg?color_snake=#9d4edd&color_dots=#240046,#3c096c,#5a189a,#7b2cbf,#9d4edd
 
-      - name: Push snake to output branch
+      - name: Push snake animations
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
