@@ -1,12 +1,16 @@
 # 🕶️ Nihat Bayram | Cybersecurity & Software Engineer
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF99&center=true&vCenter=true&width=650&lines=Cybersecurity+Enthusiast;Web+Security+%26+Risk+Management;Secure+Software+Development;Always+Learning%2C+Always+Improving" />
+</p>
+
 > Hack the system. Secure the future.
 
 ---
 
 ## 🔐 About Me
 
-I am **Nihat Bayram**, a **4th-year Computer Engineering** student at **Iğdır University**, focused on **Cybersecurity**, **Web Security**, and **Secure Software Development**.
+I am **Nihat Bayram**, a **4th-year Computer Engineering** student at **Iğdır University**, with a strong interest in **Cybersecurity**, **Web Security**, and **Secure Software Development**.
 
 I actively work on:
 - 🛡️ Web & Application Security  
@@ -14,7 +18,17 @@ I actively work on:
 - ⚠️ Cyber Risk Management  
 - 💻 Secure Backend & Web Development  
 
-My goal is to build **secure, scalable, and resilient systems** while continuously improving both **offensive and defensive cybersecurity skills**.
+My goal is to design **secure, scalable, and resilient systems** while continuously improving both **offensive and defensive cybersecurity skills**.
+
+---
+
+## 🎓 Education
+
+- **Iğdır University**  
+  *Computer Engineering* — **4th Year (2022–2026)**
+
+- **Şırnak Mustafa Bayram ÇPAL High School**  
+  *Information Technologies – Web Design*
 
 ---
 
@@ -41,6 +55,7 @@ My goal is to build **secure, scalable, and resilient systems** while continuous
 ![Metasploit](https://img.shields.io/badge/Metasploit-111111?style=for-the-badge&logo=metasploit)
 
 ---
+
 ## 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nihatbayramm&show_icons=true&count_private=true)
@@ -50,14 +65,21 @@ My goal is to build **secure, scalable, and resilient systems** while continuous
 
 ## 👀 Profile Overview
 
-![Profile Views](https://komarev.com/ghpvc/?username=nihatbayramm&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=nihatbayramm&color=00ff99&style=flat)
 
 - 🔐 Focused on **Cybersecurity & Web Security**
 - 🛡️ Hands-on experience in **secure application development**
 - 🔍 Interested in **penetration testing & risk analysis**
 - 💻 Active with **Python, JavaScript, C, Java, Linux**
 
+---
 
 ## 🧠 Philosophy
 
-“Security is not a product, it is a process.”
+> “Security is not a product, it is a process.”
+
+---
+
+## 🐍 Contribution Activity
+
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
