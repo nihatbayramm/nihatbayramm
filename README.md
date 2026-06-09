@@ -38,7 +38,7 @@ My goal is to design **secure, scalable, and resilient systems** while continuou
 ## 🌐 Social Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nihat-bayram-b3a1b4277/)
-[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram)](https://www.instagram.com/nihattbayrammm/)
+[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram)](https://www.instagram.com/1nihatbayram/)
 
 ---
 
