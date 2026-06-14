@@ -28,7 +28,7 @@ My goal is to design **secure, scalable, and resilient systems** while continuou
 ## 🎓 Education
 
 - **Iğdır University**  
-  *Computer Engineering* — **4th Year (2022–2026)**
+  *Computer Engineering* — **(2022–2026)**
 
 - **Şırnak Mustafa Bayram ÇPAL High School**  
   *Information Technologies – Web Design*
