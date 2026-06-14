@@ -13,7 +13,7 @@
 
 ## 🔐 About Me
 
-I am **Nihat Bayram**, a **Computer Engineer**, with a strong interest in **Cybersecurity**, **Web Security**, and **Secure Software Development**.
+I am **Nihat Bayram**, a **Computer Engineer** with a strong interest in **Cybersecurity**, **Web Security**, and **Secure Software Development**.
 
 I actively work on:
 - 🛡️ Web & Application Security  
