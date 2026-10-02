@@ -103,7 +103,7 @@ Information Technologies / Web Design
 ## 🐍 CONTRIBUTION MATRIX
 
 <p align="center">
-  <img src="./assets/snake-neon.svg" width="100%" alt="Animated GitHub contribution snake"/>
+<img src="https://raw.githubusercontent.com/nihatbayramm/nihatbayramm/output/snake-neon.svg" width="100%" alt="Animated GitHub contribution snake"/>
 </p>
 
 ---
