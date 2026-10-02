@@ -1,90 +1,250 @@
-# 🕶️ Nihat Bayram | Computer Engineer
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<!--                    NIHAT BAYRAM • GITHUB PROFILE                    -->
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&duration=1600&pause=500&color=00FF41&background=000000&center=true&vCenter=true&width=1000&lines=SYSTEM+BOOTING...;LOADING+CYBERSECURITY+MODULES...;AI+ASSISTED+DEFENSE+ACTIVE;NIHAT+BAYRAM+ONLINE" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:001a0d,100:00ff41&text=NIHAT%20BAYRAM&fontColor=00FF41&fontSize=55&fontAlignY=38&desc=COMPUTER%20ENGINEER%20%7C%20CYBERSECURITY%20%7C%20SECURE%20SOFTWARE&descAlignY=62&descSize=16&animation=twinkling" width="100%"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=1800&pause=700&color=00FF41&background=00000000&center=true&vCenter=true&width=1000&lines=%3E+INITIALIZING+NIHAT+BAYRAM...;%3E+SYSTEM+ACCESS+GRANTED;%3E+COMPUTER+ENGINEER+ONLINE;%3E+CYBERSECURITY+MODULES+LOADED;%3E+WEB+SECURITY+%7C+PENTESTING+%7C+SECURE+CODE;%3E+BUILDING+SYSTEMS+WORTH+PROTECTING..." />
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nihatbayramm&label=SYSTEM%20VISITORS&color=00ff41&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/nihatbayramm?label=FOLLOWERS&style=for-the-badge&color=00ff41&labelColor=050505"/>
+  <img src="https://img.shields.io/github/stars/nihatbayramm?label=TOTAL%20STARS&style=for-the-badge&color=00ff41&labelColor=050505"/>
+</p>
 
-
-> Hack the system. Secure the future.
-
----
-
-## 🔐 About Me
-
-I am **Nihat Bayram**, a **Computer Engineer** with a strong interest in **Cybersecurity**, **Web Security**, and **Secure Software Development**.
-
-I actively work on:
-- 🛡️ Web & Application Security  
-- 🔍 Vulnerability Analysis & Penetration Testing  
-- ⚠️ Cyber Risk Management  
-- 💻 Secure Backend & Web Development  
-
-My goal is to design **secure, scalable, and resilient systems** while continuously improving both **offensive and defensive cybersecurity skills**.
-
----
-
-## 🎓 Education
-
-- **Iğdır University**  
-  *Computer Engineering* — **(2022–2026)**
-
-- **Şırnak Mustafa Bayram ÇPAL High School**  
-  *Information Technologies – Web Design*
+<p align="center">
+  <a href="https://github.com/nihatbayramm">
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF41"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nihat-bayram-b3a1b4277/">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
+  </a>
+  <a href="https://www.instagram.com/1nihatbayram/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=00FF41"/>
+  </a>
+</p>
 
 ---
 
-## 🌐 Social Links
+# `root@nihat:~$ whoami`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nihat-bayram-b3a1b4277/)
-[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram)](https://www.instagram.com/1nihatbayram/)
+```text
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   ███╗   ██╗██╗██╗  ██╗ █████╗ ████████╗                          ║
+║   ████╗  ██║██║██║  ██║██╔══██╗╚══██╔══╝                          ║
+║   ██╔██╗ ██║██║███████║███████║   ██║                             ║
+║   ██║╚██╗██║██║██╔══██║██╔══██║   ██║                             ║
+║   ██║ ╚████║██║██║  ██║██║  ██║   ██║                             ║
+║   ╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝                             ║
+║                                                                      ║
+║              COMPUTER ENGINEER • CYBERSECURITY                      ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
----
+> **Hack the system. Secure the future.**
 
-## 💻 Tech Stack
+I'm **Nihat Bayram**, a Computer Engineer focused on **Cybersecurity, Web Security and Secure Software Development**.
 
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=java)
-![CSS](https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=css3)
-![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql)
-![Angular](https://img.shields.io/badge/Angular-111111?style=for-the-badge&logo=angular)
-![.NET](https://img.shields.io/badge/.NET-111111?style=for-the-badge&logo=.net)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-111111?style=for-the-badge&logo=ubuntu)
-![PowerShell](https://img.shields.io/badge/PowerShell-111111?style=for-the-badge&logo=powershell)
-![Nmap](https://img.shields.io/badge/Nmap-111111?style=for-the-badge&logo=nmap)
-![Metasploit](https://img.shields.io/badge/Metasploit-111111?style=for-the-badge&logo=metasploit)
+I enjoy understanding how systems work, identifying weaknesses and designing software that is secure from the ground up.
 
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nihatbayramm&show_icons=true&count_private=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nihatbayramm&layout=compact&theme=tokyonight)
-
----
-
-## 👀 Profile Overview
-
-![Profile Views](https://komarev.com/ghpvc/?username=nihatbayramm&color=00ff99&style=flat)
-
-- 🔐 Focused on **Cybersecurity & Web Security**
-- 🛡️ Hands-on experience in **secure application development**
-- 🔍 Interested in **penetration testing & risk analysis**
-- 💻 Active with **Python, JavaScript, C, Java, Linux**
+```text
+┌─────────────────────────────────────────────────────────────────────┐
+│  IDENTITY                                                            │
+├─────────────────────────────────────────────────────────────────────┤
+│  👨‍💻 Computer Engineer                                               │
+│  🛡️ Cybersecurity Enthusiast                                        │
+│  🔐 Web & Application Security                                      │
+│  🔍 Vulnerability Analysis                                          │
+│  💻 Secure Software Development                                     │
+│  🐧 Linux / Open Source                                             │
+│  🤖 Artificial Intelligence                                         │
+└─────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 🧠 Philosophy
+# `./security_profile --scan`
 
-> “Security is not a product, it is a process.”
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nihatbayramm&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050505&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&ring_color=00FF41" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihatbayramm&layout=compact&langs_count=8&hide_border=true&bg_color=050505&title_color=00FF41&text_color=FFFFFF" height="190"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nihatbayramm&theme=dark&hide_border=true&background=050505&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=888888" width="70%"/>
+</p>
 
 ---
 
-## 🐍 Contribution Activity
+# `./activity --live`
 
-> Watch my code evolve through commits
-![Snake animation](https://raw.githubusercontent.com/nihatbayramm/nihatbayramm/output/snake-dark.svg)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nihatbayramm&bg_color=050505&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true&custom_title=NIHAT%20BAYRAM%20%E2%80%94%20CONTRIBUTION%20NETWORK" width="100%"/>
+</p>
+
+---
+
+# `./achievements --display`
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nihatbayramm&theme=matrix&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" width="95%"/>
+</p>
+
+---
+
+# `./skills --load`
+
+## ⚡ Programming
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,java,js,html,css&theme=dark" />
+</p>
+
+## 🌐 Web & Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,dotnet,nodejs,express,postgres,mysql&theme=dark" />
+</p>
+
+## 🐧 Systems & Security
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,powershell,git,github,vscode&theme=dark" />
+</p>
+
+<p align="center">
+
+![Nmap](https://img.shields.io/badge/NMAP-050505?style=for-the-badge\&logo=nmap\&logoColor=00FF41)
+![Metasploit](https://img.shields.io/badge/METASPLOIT-050505?style=for-the-badge\&logo=metasploit\&logoColor=00FF41)
+![Burp Suite](https://img.shields.io/badge/BURP%20SUITE-050505?style=for-the-badge\&logo=burpsuite\&logoColor=00FF41)
+
+</p>
+
+---
+
+# `./education --history`
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 🎓 IĞDIR UNIVERSITY
+
+**Computer Engineering**
+
+`2022 — 2026`
+
+</td>
+
+<td align="center" width="50%">
+
+### 🏫 ŞIRNAK MUSTAFA BAYRAM ÇPAL
+
+**Information Technologies**
+
+**Web Design**
+
+</td>
+</tr>
+</table>
+
+---
+
+# `./projects --featured`
+
+<p align="center">
+  <a href="https://github.com/nihatbayramm/BilisimTeknolojileri">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nihatbayramm&repo=BilisimTeknolojileri&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+
+<a href="https://github.com/nihatbayramm?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-00FF41?style=for-the-badge&logo=github&logoColor=000000"/>
+</a>
+
+</p>
+
+---
+
+# `./current_mission`
+
+```text
+╔══════════════════════════════════════════════════════════════════════╗
+║                         CURRENT MISSION                             ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  [████████████████████████████████████] CYBERSECURITY              ║
+║  [████████████████████████████████░░░░] WEB SECURITY               ║
+║  [██████████████████████████████░░░░░░] SECURE DEVELOPMENT          ║
+║  [████████████████████████████░░░░░░░░] ARTIFICIAL INTELLIGENCE     ║
+║  [██████████████████████████░░░░░░░░░░] LINUX                      ║
+║                                                                      ║
+║  STATUS: ONLINE                                                     ║
+║  MODE:   LEARNING / BUILDING / SECURING                             ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+# `./contribution --visualize`
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nihatbayramm/nihatbayramm/output/snake-dark.svg" width="100%"/>
+</p>
+
+---
+
+# `./connect --establish`
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/nihat-bayram-b3a1b4277/">
+<img src="https://img.shields.io/badge/LINKEDIN-00FF41?style=for-the-badge&logo=linkedin&logoColor=000000"/>
+</a>
+
+<a href="https://www.instagram.com/1nihatbayram/">
+<img src="https://img.shields.io/badge/INSTAGRAM-00FF41?style=for-the-badge&logo=instagram&logoColor=000000"/>
+</a>
+
+<a href="https://github.com/nihatbayramm">
+<img src="https://img.shields.io/badge/GITHUB-00FF41?style=for-the-badge&logo=github&logoColor=000000"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+```text
+01001000 01000001 01000011 01001011
+```
+
+### 🛡️ SECURITY IS NOT A PRODUCT.
+
+### IT IS A PROCESS.
+
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:00ff41,50:001a0d,100:000000&section=footer&animation=twinkling"/>
+</p>
+
+<p align="center">
+  <b>⚡ NIHAT BAYRAM • COMPUTER ENGINEER ⚡</b>
+</p>
+
+<p align="center">
+  <sub>© 2026 Nihat Bayram — All systems operational.</sub>
+</p>
