@@ -61,9 +61,9 @@ My goal is to design **secure, scalable, and resilient systems** while continuou
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nihatbayramm&show_icons=true&count_private=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nihatbayramm&show_icons=true&count_private=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nihatbayramm&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nihatbayramm&layout=compact&theme=tokyonight)
 
 ---
 
